@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/-Education-Planner/static/css/main.d59712cb.css",
+    "main.js": "/-Education-Planner/static/js/main.231eed09.js",
+    "static/js/453.ed3810f9.chunk.js": "/-Education-Planner/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/-Education-Planner/index.html",
+    "main.d59712cb.css.map": "/-Education-Planner/static/css/main.d59712cb.css.map",
+    "main.231eed09.js.map": "/-Education-Planner/static/js/main.231eed09.js.map",
+    "453.ed3810f9.chunk.js.map": "/-Education-Planner/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d59712cb.css",
+    "static/js/main.231eed09.js"
+  ]
+}
